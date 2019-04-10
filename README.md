@@ -1,6 +1,6 @@
 # HomeMe
-Group Project - README Template
-===
+
+
 
 #HomeMe
 
@@ -12,7 +12,7 @@ Group Project - README Template
 
 ## Overview
 ### Description
-Enlists and views listings of real estate properties present in your choice of area on the map.It allows registered users and admins to post listings and provide the user a filtered search of best value properties.]
+Enlists and views listings of real estate properties present in your choice of area on the map.It allows registered users and admins to post listings and provide the user a filtered search of best value properties.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
